@@ -1,0 +1,4 @@
+DEBUG = False
+SECRET_KEY = '050408'
+SQLALCHEMY_DATABASE_URI = 'postgres://postgres:050408@localhost:5432/catalog_db'
+SQLALCHEMY_TRACK_MODIFICATIONS = False
